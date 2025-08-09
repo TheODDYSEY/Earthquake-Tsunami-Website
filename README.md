@@ -1,4 +1,8 @@
+
+
 # 🌊 Global Tsunami Warning & Simulation System
+
+![Overview of the Global Tsunami Warning & Simulation System](overview.png)
 
 ## Overview
 The **Global Tsunami Warning & Simulation System** is a real-time monitoring and simulation dashboard designed to provide critical information about earthquakes and potential tsunami threats. This application leverages data from multiple sources, including USGS, NOAA, and live news feeds, to deliver timely updates and visualizations for seismic activity and tsunami risks.
